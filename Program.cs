@@ -9,6 +9,7 @@ public class Program
         CreateHostBuilder(args).Build().Run();
     }
     /*Console.WriteLine("פגפג");*/
+    /*Console.WriteLine("פגפג");*/
 
     public static IHostBuilder CreateHostBuilder(string[] args) =>
         Host.CreateDefaultBuilder(args)
